@@ -8,3 +8,8 @@
 
 To format on type we use the prettier and eslint.
 Prettier must be installed on the vscode and eslint as a dependency in the project.
+
+## Dependencies vsCode:
+- Prettier
+- Eslint
+- Tailwind CSS IntelliSense
