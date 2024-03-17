@@ -18,3 +18,7 @@ Prettier must be installed on the vscode and eslint as a dependency in the proje
 ## Useful links:
 
 - [Nativecn](https://nativecn.mintlify.app/introduction/) inspired on [Shadcn/ui] (https://ui.shadcn.com/)
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/Vkj7Tqh6/photo-2024-03-17-07-32-40.jpg)
